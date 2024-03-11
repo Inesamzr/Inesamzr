@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I am Ines Amzert 👋
 
-<!--
-**Inesamzr/Inesamzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général. J'adore les langages de programmation orientée objet et je suis toujours ouverte à découvrir de nouvelles choses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 En ce moment, je travaille sur le renforcement de mes compétences en développement web et j'explore également le développement de jeux.
+
+🌱 Actuellement, j'apprends davantage sur les algorithmes avancés et les structures de données pour approfondir ma compréhension de l'informatique.
+
+👯 Je suis ouverte à collaborer sur des projets liés au développement de jeux, au développement web, et tout ce qui suscite la créativité et l'innovation.
+
+💬 N'hésitez pas à me poser des questions sur la programmation, la conception de jeux, ou tout ce qui concerne la technologie !
+
+⚡ Fun fact : J'aime explorer les mondes virtuels autant que j'aime les créer !
