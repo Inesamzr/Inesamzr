@@ -12,3 +12,5 @@ Je suis étudiante en informatique en 4ème année à Polytech Montpellier, pass
 💬 N'hésitez pas à me poser des questions sur la programmation, la conception de jeux, ou tout ce qui concerne la technologie !
 
 ⚡ Fun fact : J'aime explorer les mondes virtuels autant que j'aime les créer !
+
+![Snake animation](https://raw.githubusercontent.com/{Inesamzr}/{Inesamzr}/output/github-contribution-grid-snake-dark.svg)
