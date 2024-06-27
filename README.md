@@ -24,8 +24,8 @@ Je suis toujours ouverte à découvrir de nouvelles choses.
 
   <h4 align="center">Outils et Environnements de Développement</h4>
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vscode,figma,postman,linux,docker,unity,androidstudio" />
-  <img src="https://skillicons.dev/icons?i=arduino,idea,phpstorm,notion,replit,discord,gradle,maven,netlify" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,githubactions,vscode,idea,phpstorm,androidstudio,arduino,maven,gradle,docker" />
+  <img src="https://skillicons.dev/icons?i=figma,unity,postman,notion,replit,discord,netlify" />
   </p>
 
 </a>
