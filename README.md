@@ -13,4 +13,4 @@ Je suis étudiante en informatique en 4ème année à Polytech Montpellier, pass
 
 ⚡ Fun fact : J'aime explorer les mondes virtuels autant que j'aime les créer !
 
-![snake gif](https://github.com/Inesamzr/Inesamzr/blob/output/github-contribution-grid-snake.gif)
+![gitartwork](gitartwork.svg)
