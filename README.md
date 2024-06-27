@@ -3,7 +3,7 @@
 Moi c'est Ines Amzert. Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
 Je suis toujours ouverte à découvrir de nouvelles choses.
 
-<h2 align="center">🔥 Langages-Frameworks-Outils 🔥</h2>
+<h2 align="center">💙 Langages-Frameworks-Outils </h2>
 <p align="center">
 <a href="https://skillicons.dev">
   <h4 align="center">Langages de Programmation</h4>
