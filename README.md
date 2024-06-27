@@ -1,7 +1,6 @@
-### Salut, je suis Ines Amzert ! 👋
+![welcome](welcomebanner.png)
 
-
-Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
+Moi c'est Ines Amzert. Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
 Je suis toujours ouverte à découvrir de nouvelles choses.
 
 <h2 align="center">🔥 Langages-Frameworks-Outils 🔥</h2>
