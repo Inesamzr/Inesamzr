@@ -12,7 +12,7 @@
 
 <br><br>
 <hr>
-<br><br>
+<br>
 
 <p align="center">
 <a href="https://skillicons.dev">
