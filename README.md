@@ -1,9 +1,20 @@
 ![welcome](newwelcomebanner.png)
+<div style="display: flex; align-items: center;">
+  <img align="left" height="150" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" style="margin-right: 20px; margin-left: 20px;" />
+  <div style="margin-left: 20px;" >
+    Moi c'est Ines Amzert. Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
+    Je suis toujours ouverte à découvrir de nouvelles choses.
+  </div>
+</div>
 
-Moi c'est Ines Amzert. Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
-Je suis toujours ouverte à découvrir de nouvelles choses.
+<br>
+<br>
+<br>
+
+
 
 <h2 align="center">💙 Langages-Frameworks-Outils </h2>
+
 <p align="center">
 <a href="https://skillicons.dev">
   <h4 align="center">Langages de Programmation</h4>
@@ -36,6 +47,7 @@ Je suis toujours ouverte à découvrir de nouvelles choses.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=inesamzr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
 </div>
 
 ###
@@ -47,5 +59,6 @@ Je suis toujours ouverte à découvrir de nouvelles choses.
 <div align="center">
   <img src="https://profile-counter.glitch.me/inesamzr/count.svg?"  />
 </div>
+
 
 ###
