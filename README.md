@@ -12,7 +12,6 @@
 
 <br><br>
 <hr>
-<br>
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -40,11 +39,14 @@
 </a>
 </p>
 <hr>
-
+<h2 align="center">𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img src="https://streak-stats.demolab.com?user=inesamzr&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
+</div>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=inesamzr.inesamzr&left_color=black&right_color=blueviolet&left_text=Profil views"  />
 </div>
 <hr>
 
