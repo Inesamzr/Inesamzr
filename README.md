@@ -10,7 +10,9 @@
   </div>
 </div>
 
-<br><br><hr>
+<br><br>
+<hr>
+<br>
 
 <p align="center">
 <a href="https://skillicons.dev">
