@@ -41,9 +41,9 @@
 <hr>
 <h2 align="center">𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=inesamzr&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=inesamzr&locale=fr&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
   <br><br>
   <img src="https://profile-counter.glitch.me/inesamzr/count.svg?"  />
 </div>
