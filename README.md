@@ -1,6 +1,6 @@
 ![welcome](newwelcomebanner.png)
 <div style="display: flex; align-items: center;">
-  <img align="left" height="200" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" style="margin-right: 20px; margin-left: 20px;" />
+  <img align="left" height="200" src="https://64.media.tumblr.com/90059c658fc3fdb7db7e8d4c32f020b3/b36d3af6693aac9c-3e/s540x810/2d9fc6a725e66ce7606e8192c16b798544b9c37a.gif" style="margin-right: 20px; margin-left: 20px;" />
   <div style="margin-left: 20px; font-family: 'Georgia', serif;" align="center">
     <br><br>
     <p> 𝑴𝒐𝒊 𝒄'𝒆𝒔𝒕 𝑰𝒏𝒆𝒔 𝑨𝒎𝒛𝒆𝒓𝒕.</p>
@@ -53,6 +53,6 @@
 
 ###
 <div align="center">
-<img align="center" src="https://i.pinimg.com/originals/bf/7f/51/bf7f5103da5b74ed58d8799990f7b62e.gif" />
+<img align="center" src="https://i.pinimg.com/originals/7e/9c/5a/7e9c5a973ac7e93a706757d58fea7dfd.gif" />
 </div>
 <hr>
