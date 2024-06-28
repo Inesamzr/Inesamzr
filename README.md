@@ -49,5 +49,3 @@ Je suis toujours ouverte à découvrir de nouvelles choses.
 </div>
 
 ###
-
-![gitartwork](gitartwork.svg)
