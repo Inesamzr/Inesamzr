@@ -1,6 +1,6 @@
 ![welcome](newwelcomebanner.png)
 <div style="display: flex; align-items: center;">
-  <img align="left" height="250" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" style="margin-right: 20px; margin-left: 20px;" />
+  <img align="left" height="200" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" style="margin-right: 20px; margin-left: 20px;" />
   <div style="margin-left: 20px; font-family: 'Georgia', serif;" align="center">
     <br><br>
     <p> 𝑴𝒐𝒊 𝒄'𝒆𝒔𝒕 𝑰𝒏𝒆𝒔 𝑨𝒎𝒛𝒆𝒓𝒕.</p>
@@ -42,7 +42,7 @@
 <h2 align="center">𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=fr&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=inesamzr&locale=fr&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
   <br><br>
   <img src="https://profile-counter.glitch.me/inesamzr/count.svg?"  />
