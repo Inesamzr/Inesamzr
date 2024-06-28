@@ -1,4 +1,4 @@
-![welcome](welcomebanner.png)
+![welcome](newwelcomebanner.png)
 
 Moi c'est Ines Amzert. Je suis étudiante en informatique en 4ème année à Polytech Montpellier, passionnée par les jeux vidéo et l'art en général.
 Je suis toujours ouverte à découvrir de nouvelles choses.
