@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center;">
   <img align="left" height="250" src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" style="margin-right: 20px; margin-left: 20px;" />
   <div style="margin-left: 20px; font-family: 'Georgia', serif;" align="center">
-    <br><br><br>
+    <br><br>
     <p> 𝑴𝒐𝒊 𝒄'𝒆𝒔𝒕 𝑰𝒏𝒆𝒔 𝑨𝒎𝒛𝒆𝒓𝒕.</p>
     <p> 𝑱𝒆 𝒔𝒖𝒊𝒔 é𝒕𝒖𝒅𝒊𝒂𝒏𝒕𝒆 𝒆𝒏 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒒𝒖𝒆 𝒆𝒏 5è𝒎𝒆 𝒂𝒏𝒏é𝒆 à 𝑷𝒐𝒍𝒚𝒕𝒆𝒄𝒉 𝑴𝒐𝒏𝒕𝒑𝒆𝒍𝒍𝒊𝒆𝒓.</p>
     <p> 𝐏𝒂𝒔𝒔𝒊𝒐𝒏𝒏é𝒆 𝒑𝒂𝒓 𝐥'𝐚𝐫𝐭 𝐞𝐭 𝐥𝐞𝐬 𝐣𝐞𝐮𝐱 𝐯𝐢𝐝é𝐨.</p>
