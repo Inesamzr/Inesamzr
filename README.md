@@ -11,13 +11,6 @@
 </div>
 
 <br><br>
-<h2 align="center">𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=fr&hide_border=true&order=1&bg_color=45%2C986DE3%2C20DCEB&icon_color=EBEBEB" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2&bg_color=45%2C986DE3%2C20DCEB" height="150" alt="languages graph"  />
-  <img height="150" src="https://i.pinimg.com/originals/8e/99/9f/8e999fe6ac0fe0a8d7fc10a8d4ea6feb.gif" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inesamzr&theme=dracula&locale=fr&background=45%2C986DE3%2C20DCEB&hide_border=true&ring=EBEBEB&fire=DE10EB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" height="150" alt="GitHub Streak" /></a>  <br><br>
-</div>
 <h2 align="center">𝑪𝒐𝒏𝒏𝒂𝒊𝒔𝒔𝒂𝒏𝒄𝒆𝒔</h2>
 <p align="center">
 <a href="https://skillicons.dev">
@@ -44,6 +37,13 @@
   </p>
 </a>
 </p>
+<h2 align="center">𝑺𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒒𝒖𝒆𝒔</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inesamzr&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=fr&hide_border=true&order=1&bg_color=45%2C986DE3%2C20DCEB&icon_color=EBEBEB" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inesamzr&locale=fr&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2&bg_color=45%2C986DE3%2C20DCEB" height="150" alt="languages graph"  />
+  <img height="150" src="https://i.pinimg.com/originals/8e/99/9f/8e999fe6ac0fe0a8d7fc10a8d4ea6feb.gif" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=inesamzr&theme=dracula&locale=fr&background=45%2C986DE3%2C20DCEB&hide_border=true&ring=EBEBEB&fire=DE10EB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB" height="150" alt="GitHub Streak" /></a>  <br><br>
+</div>
 <hr>
 
 ###
