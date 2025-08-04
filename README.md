@@ -1,4 +1,4 @@
-![welcome](newwelcomebanner.png)
+![welcome](welcomebanner.png)
 <div style="display: flex; align-items: center;">
   <img align="left" height="200" src="https://64.media.tumblr.com/90059c658fc3fdb7db7e8d4c32f020b3/b36d3af6693aac9c-3e/s540x810/2d9fc6a725e66ce7606e8192c16b798544b9c37a.gif" style="margin-right: 20px; margin-left: 20px;" />
   <div style="margin-left: 20px; font-family: 'Georgia', serif;" align="center">
