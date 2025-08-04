@@ -3,10 +3,10 @@
   <img align="left" height="200" src="https://64.media.tumblr.com/90059c658fc3fdb7db7e8d4c32f020b3/b36d3af6693aac9c-3e/s540x810/2d9fc6a725e66ce7606e8192c16b798544b9c37a.gif" style="margin-right: 20px; margin-left: 20px;" />
   <div style="margin-left: 20px; font-family: 'Georgia', serif;" align="center">
     <br><br>
-    <p> 𝑴𝒐𝒊 𝒄'𝒆𝒔𝒕 𝑰𝒏𝒆𝒔 𝑨𝒎𝒛𝒆𝒓𝒕.</p>
-    <p> 𝑱𝒆 𝒔𝒖𝒊𝒔 é𝒕𝒖𝒅𝒊𝒂𝒏𝒕𝒆 𝒆𝒏 𝒊𝒏𝒇𝒐𝒓𝒎𝒂𝒕𝒊𝒒𝒖𝒆 𝒆𝒏 5è𝒎𝒆 𝒂𝒏𝒏é𝒆 à 𝑷𝒐𝒍𝒚𝒕𝒆𝒄𝒉 𝑴𝒐𝒏𝒕𝒑𝒆𝒍𝒍𝒊𝒆𝒓.</p>
-    <p> 𝐏𝒂𝒔𝒔𝒊𝒐𝒏𝒏é𝒆 𝒑𝒂𝒓 𝐥'𝐚𝐫𝐭 𝐞𝐭 𝐥𝐞𝐬 𝐣𝐞𝐮𝐱 𝐯𝐢𝐝é𝐨.</p>
-    <p> 𝐓𝐨𝐮𝐣𝐨𝐮𝐫𝐬 𝒐𝒖𝒗𝒆𝒓𝒕𝒆 à 𝒅é𝒄𝒐𝒖𝒗𝒓𝒊𝒓 𝒅𝒆 𝒏𝒐𝒖𝒗𝒆𝒍𝒍𝒆𝒔 𝒄𝒉𝒐𝒔𝒆𝒔.</p>
+    <p><strong>Moi c'est Ines Amzert.</strong></p>
+    <p>Étudiante en informatique en 5ème année à Polytech Montpellier.</p>
+    <p>Passionnée par l’art et les jeux vidéo.</p>
+    <p>Toujours ouverte à découvrir de nouvelles choses.</p>
   </div>
 </div>
 
