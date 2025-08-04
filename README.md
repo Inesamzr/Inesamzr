@@ -47,10 +47,6 @@
 <hr>
 
 ###
-
-<img src="https://raw.githubusercontent.com/inesamzr/inesamzr/output/snake.svg" alt="Snake animation"/>
-
-###
 <div align="center">
 <img align="center" src="https://i.pinimg.com/originals/7e/9c/5a/7e9c5a973ac7e93a706757d58fea7dfd.gif" />
 </div>
